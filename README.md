@@ -1,4 +1,4 @@
-# Intala-o-e-configura-o-CLI-AWS2
+# Instala-o-e-configura-o-CLI-AWS2
 Lab de instalação e configuração da AWS CLI utilizando EC2 Red Hat Linux.
 # LAB 168 — Instalação e Configuração da AWS CLI
 
